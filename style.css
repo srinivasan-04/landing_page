@@ -246,27 +246,7 @@ ul {
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
 }
-@media only screen and (max-width: 600px) {
-    .logo {
-        margin-right: 0;
-    }
 
-    .home a {
-        margin-left: 0;
-    }
-
-    .reg a {
-        font-size: 16px;
-    }
-
-    ul {
-        position: relative;
-        top: auto;
-        left: auto;
-        transform: none;
-        flex-direction
-    }
-}
 
 
 
